@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b68ccaa.chunk.css",
+    "main.js": "/static/js/main.ab9e757a.chunk.js",
+    "main.js.map": "/static/js/main.ab9e757a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fcfebf99.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fcfebf99.js.map",
+    "static/css/2.ee68885a.chunk.css": "/static/css/2.ee68885a.chunk.css",
+    "static/js/2.c1d93f3a.chunk.js": "/static/js/2.c1d93f3a.chunk.js",
+    "static/js/2.c1d93f3a.chunk.js.map": "/static/js/2.c1d93f3a.chunk.js.map",
+    "static/js/3.53b2d049.chunk.js": "/static/js/3.53b2d049.chunk.js",
+    "static/js/3.53b2d049.chunk.js.map": "/static/js/3.53b2d049.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ee68885a.chunk.css.map": "/static/css/2.ee68885a.chunk.css.map",
+    "static/css/main.1b68ccaa.chunk.css.map": "/static/css/main.1b68ccaa.chunk.css.map",
+    "static/js/2.c1d93f3a.chunk.js.LICENSE.txt": "/static/js/2.c1d93f3a.chunk.js.LICENSE.txt",
+    "static/media/Reempp.cef4f743.png": "/static/media/Reempp.cef4f743.png",
+    "static/media/Stingray.818e5729.jpeg": "/static/media/Stingray.818e5729.jpeg",
+    "static/media/AboutMe.css": "/static/media/background2.007312d3.jpg",
+    "static/media/default-skin.css": "/static/media/default-skin.f64c3af3.svg",
+    "static/media/figs.9bf642a8.png": "/static/media/figs.9bf642a8.png",
+    "static/media/htb.7a1aa981.gif": "/static/media/htb.7a1aa981.gif",
+    "static/media/inmyownworld.62d71d13.png": "/static/media/inmyownworld.62d71d13.png",
+    "static/media/portrait.64ba2037.jpeg": "/static/media/portrait.64ba2037.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcfebf99.js",
+    "static/css/2.ee68885a.chunk.css",
+    "static/js/2.c1d93f3a.chunk.js",
+    "static/css/main.1b68ccaa.chunk.css",
+    "static/js/main.ab9e757a.chunk.js"
+  ]
+}
