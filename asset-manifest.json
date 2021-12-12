@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.69dc1a83.chunk.css",
+    "main.css": "/static/css/main.22a88d1b.chunk.css",
     "main.js": "/static/js/main.4d3f0a75.chunk.js",
     "main.js.map": "/static/js/main.4d3f0a75.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fcfebf99.js",
@@ -12,7 +12,7 @@
     "static/js/3.53b2d049.chunk.js.map": "/static/js/3.53b2d049.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ee68885a.chunk.css.map": "/static/css/2.ee68885a.chunk.css.map",
-    "static/css/main.69dc1a83.chunk.css.map": "/static/css/main.69dc1a83.chunk.css.map",
+    "static/css/main.22a88d1b.chunk.css.map": "/static/css/main.22a88d1b.chunk.css.map",
     "static/js/2.35a5ebbf.chunk.js.LICENSE.txt": "/static/js/2.35a5ebbf.chunk.js.LICENSE.txt",
     "static/media/Reempp.cef4f743.png": "/static/media/Reempp.cef4f743.png",
     "static/media/Stingray.818e5729.jpeg": "/static/media/Stingray.818e5729.jpeg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.fcfebf99.js",
     "static/css/2.ee68885a.chunk.css",
     "static/js/2.35a5ebbf.chunk.js",
-    "static/css/main.69dc1a83.chunk.css",
+    "static/css/main.22a88d1b.chunk.css",
     "static/js/main.4d3f0a75.chunk.js"
   ]
 }
