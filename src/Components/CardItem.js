@@ -2,7 +2,6 @@ import React from 'react'
 
 
 
-
 function CardItem(props) {
     return (
         <>
@@ -12,7 +11,7 @@ function CardItem(props) {
                       <img 
                       src={props.src} 
                       alt= 'Projects Img'
-                      className='cards__item__img' 
+           x           className='cards__item__img' 
                       />
                   </figure>
                   <div className='cards__item__info'>
