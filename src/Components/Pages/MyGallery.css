@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+    overflow:auto;
+    flex-direction: row;
+    object-fit:fill;
+    
+}
+

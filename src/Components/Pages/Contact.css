@@ -1,0 +1,69 @@
+.page {
+    background: linear-gradient(180deg, rgb(255, 206, 214), rgb(255, 236, 199), rgb(255, 167, 221) );
+    
+    background-color: 'black';
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    
+}
+
+ /* .contact-container {
+    position:relative;
+    align-items: center;
+    overflow: hidden;
+ } */
+    
+.drake {
+    height: auto;
+    width: auto;
+    background-repeat: no-repeat;
+    z-index: 1;
+    position:relative;
+    background-position:center;
+    display:flex;
+    object-position: center;
+
+    
+}
+
+h1 {
+    color: rgb(119, 97, 119);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25pt;
+    padding: 3rem;
+    font-weight: bolder;
+}
+
+.phone {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12pt;
+    text-align: center;
+    color: rgb(112, 112, 112);
+    font-weight: 400;
+} 
+
+.email {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 12pt;
+text-align: center;
+color: rgb(112, 112, 112);
+font-weight: 400;
+} 
+
+
+ .content {
+    margin: 6rem;
+    width: 350px;
+    height: 300px;
+    padding: 10px;
+    background-color: white;
+    position: relative;
+    align-items: center;
+    box-shadow: 1px 1px 20px rgb(255, 156, 205);
+ }

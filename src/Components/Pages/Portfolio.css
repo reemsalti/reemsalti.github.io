@@ -1,0 +1,43 @@
+.mypage {
+    background: linear-gradient(180deg, rgb(255, 206, 214), rgb(255, 236, 199), rgb(255, 167, 221) );
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    align-items: center !important;
+    margin: auto;
+        
+        
+}
+
+.portfolio-container{
+    position:relative;
+    align-items: center;
+    overflow: hidden;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(134, 108, 134);
+    text-align: center;
+    
+}
+/* .artsection {
+    color: azure;
+} */
+
+.enlarge {
+    margin: 10px;
+    font-size: 10pt;
+}
+    
+@media screen and (max-width: 1170px) {
+    .mypage {
+      position: relative;
+    }
+}
+
+.gall{
+    width: 30%;
+    object-fit:cover;
+    max-height: 25rem;
+
+}
