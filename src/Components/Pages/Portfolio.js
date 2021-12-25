@@ -6,7 +6,6 @@ import Cards from '../Cards';
 
 
 
-
 function Portfolio() {
     return (
         <>
@@ -29,11 +28,23 @@ function Portfolio() {
                 </div>
                 <div className='projsection'>
                     <h2>PROJECTS</h2>
-                    <Cards />
+                <div>
+                    <iframe className='tet' title='Tetris App' src='https://reemsalti.github.io/react-tetris/'>
+                    </iframe>
+                    <a 
+                    className='fullscreen' 
+                    href='https://reemsalti.github.io/react-tetris/' 
+                    target='_blank'>
+                        <br></br>
+                        PLAY IN FULLSCREEN
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>    
+        <div>
                 <Footer />
+                </div>
             </>
     )
 }

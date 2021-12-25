@@ -20,20 +20,20 @@
   }
   
   .cards__wrapper {
-    position: ; 
+    position: relative; 
     margin: 50px 0 45px;
    
   }
   
   .cards__items {
-    margin-bottom: 24px;
     list-style: none;
+    max-width: 150px;
   }
   
   .cards__item {
     display: flex;
     flex: 1;
-    margin: 0 1rem;
+    margin: 0rem;
     border-radius: 10px;
   }
   

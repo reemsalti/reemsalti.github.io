@@ -10,11 +10,10 @@ function Cards() {
             <div className='cards__container'>
                 <div className='cards__wrapper'>
                     <ul className='cards__items'>
-                        <a class="game" target='_blank'>
+                        <a class="game" href="https://reemsalti.github.io/react-tetris/" target='_blank'>
                         <CardItem
                              src={image}
                             text='TETRIS' 
-                            path='/react-tetris/'
                         />
                         </a>
                     </ul>
